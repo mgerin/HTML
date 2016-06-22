@@ -34,7 +34,7 @@ input {
     border: 3px solid #f2f2f2;
     width: 60%;
     height: 35px;
-    margin: 0 10px;
+    margin: 0 auto 10px;
     text-align: center;
 }
 
@@ -76,6 +76,6 @@ footer {
     text-align: center;
 }
 
-#register-button {
+#register-title{
     width: 200px;
 }
